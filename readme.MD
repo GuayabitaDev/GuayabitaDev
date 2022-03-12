@@ -1,7 +1,5 @@
 # Hi there, I'm Guayabita 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Java
 - ⚡ Fun fact: I love fruits
