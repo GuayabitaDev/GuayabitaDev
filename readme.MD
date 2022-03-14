@@ -13,5 +13,5 @@
 
 
 
-<img align="center" alt="Guayabitaa's Stats" src="https://github-readme-stats.vercel.app/api?username=guayabitaa&show_icons=true&hide_border=true&theme=radical"/>
+</p><img align="center" alt="Guayabitaa's Stats" src="https://github-readme-stats.vercel.app/api?username=guayabitaa&show_icons=true&hide_border=true&theme=radical"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guayabitaa&layout=compact&theme=radical" alt="guayabitaa" /></p>
