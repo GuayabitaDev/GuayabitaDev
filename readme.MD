@@ -13,5 +13,5 @@
 
 
 
-<img align= "center" src= "https://github-readme-stats.vercel.app/api?username=guayabitaa&show_icons=true&hide_border=true&theme=prussian"/>
-<img align= "center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=guayabitaa&layout=compact&theme=radical" alt="prussian"/>
+<img align= "center" src= "https://github-readme-stats.vercel.app/api?username=guayabitaa&show_icons=true&hide_border=true&theme=react"/>
+<img align= "center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=guayabitaa&layout=compact&theme=react"/>
