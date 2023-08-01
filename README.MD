@@ -1,3 +1,5 @@
 # Hi there, I'm Guayabita 👋 
 
-![Guayabita's GitHub stats](https://github-readme-stats.vercel.app/api?username=guayabitadev&show_icons=true&theme=transparent)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuayabitaDev&theme=dracula&hide_langs_below=1" />
+</a>
