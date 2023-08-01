@@ -1,10 +1,7 @@
 # Hey, I'm Guayabita <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<br>
-<div align="center">
-<!-- <a href="https://discord.com/users/807810010225573948" > --> 
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/GuayabitaDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuayabitaDev&theme=dracula&hide_langs_below=1" />
 </a>
 
