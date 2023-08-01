@@ -1,4 +1,4 @@
-# Hey, I'm Guayabita <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+https://cdn.discordapp.com/attachments/1092294882103672943/1136046671994814484/tierra.png # Hey, I'm Guayabita <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <img src="https://lanyard.kyrie25.me/api/807810010225573948?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuayabitaDev&theme=github_dark&hide_langs_below=1" />
 
