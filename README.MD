@@ -1,4 +1,4 @@
-# Hey, I'm Guayabita <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+# Hey, I'm Guava <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuayabitaDev&theme=transparent&hide_langs_below=1" />
 
