@@ -9,8 +9,5 @@
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=GuayabitaDev&theme=dark&hide_border=true" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GuayabitaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GuayabitaDev&icon=0&color=0)](https://visitcount.itsvg.in)
