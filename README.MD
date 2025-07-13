@@ -5,8 +5,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=GuayabitaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=GuayabitaDev&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuayabitaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GuayabitaDev&theme=dark&hide_border=true" height="180px"/>
 </p>
 
 ---
