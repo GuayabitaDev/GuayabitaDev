@@ -9,7 +9,7 @@
 
 Hi! I'm Guava, a passionate developer who thrives in building scalable backend systems and interactive web frontends.  
 I specialize in **Java development**, especially using **SpigotAPI**, creating custom plugins and optimizing Minecraft server experiences.  
-On the frontend, I love crafting sleek interfaces using **TypeScript** and **modern toolchains** like **Bun** and **Yarn**.
+On the frontend, I love creating sleek interfaces using **TypeScript** and **modern toolchains** like **Bun** and **Yarn**.
 
 ---
 
