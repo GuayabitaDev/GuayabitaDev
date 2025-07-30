@@ -49,11 +49,4 @@ On the frontend, I love crafting sleek interfaces using **TypeScript** and **mod
 
 ---
 
-## 📫 Let's Connect
-
-- 📨 Reach out via [GitHub Discussions](https://github.com/GuayabitaDev)
-- 🌱 Always open to collaborating on cool open-source or Minecraft-related projects!
-
----
-
 [![](https://visitcount.itsvg.in/api?id=GuayabitaDev&icon=0&color=0)](https://visitcount.itsvg.in)
