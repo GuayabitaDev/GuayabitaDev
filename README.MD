@@ -33,7 +33,7 @@ On the frontend, I love crafting sleek interfaces using **TypeScript** and **mod
 
 ## 🧩 What I Do
 
-- 🛠️ Develop custom **Minecraft plugins** using SpigotAPI & PaperMC  
+- 🛠️ Develop custom **Minecraft plugins** using SpigotAPI & PaperAPI  
 - ⚙️ Architect backend systems in Java and Kotlin  
 - 🌐 Build modern UIs with **TypeScript**, **React**, and **Swift**  
 - 🚀 Optimize performance and scalability for high-load environments  
@@ -48,5 +48,3 @@ On the frontend, I love crafting sleek interfaces using **TypeScript** and **mod
 </p>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=GuayabitaDev&icon=0&color=0)](https://visitcount.itsvg.in)
