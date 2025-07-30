@@ -44,7 +44,6 @@ On the frontend, I love crafting sleek interfaces using **TypeScript** and **mod
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuayabitaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=GuayabitaDev&theme=dark&hide_border=true" width="420"/>
 </p>
 
