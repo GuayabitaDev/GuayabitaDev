@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## 🍀 About Me
 
 Hi! I'm Guava, a passionate developer who thrives in building scalable backend systems and interactive web frontends.  
 I specialize in **Java development**, especially using **SpigotAPI**, creating custom plugins and optimizing Minecraft server experiences.  
@@ -28,16 +28,6 @@ On the frontend, I love creating sleek interfaces using **TypeScript** and **mod
 **Databases & Caching**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🧩 What I Do
-
-- 🛠️ Develop custom **Minecraft plugins** using SpigotAPI & PaperAPI  
-- ⚙️ Architect backend systems in Java and Kotlin  
-- 🌐 Build modern UIs with **TypeScript**, **React**, and **Swift**  
-- 🚀 Optimize performance and scalability for high-load environments  
-- 🧪 Explore new technologies and contribute to open source
 
 ---
 
