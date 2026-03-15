@@ -4,14 +4,6 @@
 ⚙️ SpigotAPI & Minecraft Systems  
 🌐 Web Development • TypeScript  
 
----
-
-### About
-
-I enjoy building **Minecraft plugins**, and **websites**.  
-Most of my work focuses on creating high quality products!
----
-
 ### Tech
 
 **Languages**
