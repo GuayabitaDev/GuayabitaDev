@@ -1,8 +1,8 @@
 # Hey, I'm Guava 👋
 
 💻 Java Developer  
-⚙️ SpigotAPI & Minecraft Systems  
-🌐 Web Development • TypeScript  
+⚙️ Minecraft Plugins
+🌐 Web Development
 
 ### Tech
 
@@ -13,7 +13,6 @@ Java • Kotlin • TypeScript • Swift
 MongoDB • Redis • Bun • Yarn
 
 ---
-
 ### Stats
 
 <p align="center">
